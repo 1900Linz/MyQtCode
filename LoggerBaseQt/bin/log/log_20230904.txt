@@ -1,0 +1,7 @@
+[2023-09-04 22:23:06][Warning][0x3e5c][qml\qqmlapplicationengine.cpp:129]QQmlApplicationEngine failed to load component
+[2023-09-04 22:23:06][Warning][0x3e5c][qrc:/main.qml:-1]qrc:/main.qml: No such file or directory
+[2023-09-04 22:23:13][Warning][0xa998][qml\qqmlapplicationengine.cpp:129]QQmlApplicationEngine failed to load component
+[2023-09-04 22:23:13][Warning][0xa998][qrc:/main.qml:-1]qrc:/main.qml: No such file or directory
+[2023-09-04 22:37:36][Debug][0x1fd0][..\LoggerBaseQt\logview.cpp:28]Widget日志信息
+[2023-09-04 22:37:36][Debug][0xc78c][..\LoggerBaseQt\logview.cpp:38]QtConcurrent::run do something.
+[2023-09-04 22:37:39][Debug][0x1fd0][qrc:/main.qml:45]QML日志信息
