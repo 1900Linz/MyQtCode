@@ -6,9 +6,6 @@
 
 /**
  * @brief 简易的日志管理类，作为单例
- * @author 龚建波 - https://github.com/gongjianbo
- * @date 2020-08-13
- * @details
  * 1.初始化时调用 initManager 重定向 QDebug 输出
  * 析构时自动调用 freeManager，也可以手动调用 freeManager
  * 2.根据时间戳每天重新生成一个文件，超过文件大小也会重新生成
