@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
     FileDialogBaseQt \
-    LoggerBaseQt
+    LoggerBaseQt \
+    Qml_framelessWindow
